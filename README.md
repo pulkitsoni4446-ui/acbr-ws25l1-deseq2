@@ -8,4 +8,4 @@ ACBR Winter School 2025, Level 1 DESeq2 tutorial
 # about this repository
 I am Pulkit, and I am trying to replicate the RNAseq 
 data analysis with DESeq Bioconductor package
- ss
+ 
