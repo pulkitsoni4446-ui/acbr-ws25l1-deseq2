@@ -1,0 +1,17 @@
+# Start R
+To Start R Statistical Programing language type R in the command line of the R4.SWS conda environment
+
+```{CMD}
+R
+```
+
+#Install Packages for Bioconductor
+Installing `BiocManager` package from CRAN (comprehensive R Archival Network) using `install.packages()` function in R base. please type the following ,
+```{R}
+install.packages("BiocManager")
+```
+
+Install `Biostrings` Bioconductor package using `BiocManager::install()` function
+```{R}
+BiocManager::install("Biostrings")
+```
