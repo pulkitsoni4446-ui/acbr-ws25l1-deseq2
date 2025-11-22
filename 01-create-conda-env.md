@@ -13,3 +13,8 @@ conda create --name R4.SWS
 ```{CMD}
 conda activate R4.SWS
 ```
+- Install R4.5 in the R4.SWS conda environment
+```{CMD}
+conda install conda-forge::r-base
+```
+`conda-forge` is the channel from anaconda.org. [conda-forge/r-base](https://anaconda.org/channels/conda-forge/packages/r-base/overview)
